@@ -185,4 +185,5 @@ FUNCTION DisplaySummary(stationCount, alertCount, manualCount)
     OUTPUT "Manual checks needed: " + manualCount
 END FUNCTION
 ```
- 
+ <img width="950" height="1280" alt="WhatsApp Image 2026-11-19 at 18 54 48" src="https://github.com/user-attachments/assets/49063941-f468-4840-8e46-3aa93de2074b" />
+
